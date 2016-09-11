@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+#box
+	{
+		background: 	red;
+		width: 			300px;
+		height:			300px;
+		display: 		none;
+		position:		relative;
+	}
+
+p a
+	{
+		color:			red;
+	
+	
+	}
+	
+.alert
+	{
+		color:		blue;
+	}
